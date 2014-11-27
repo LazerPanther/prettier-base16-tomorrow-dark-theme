@@ -1,7 +1,7 @@
 {
   "name": "prettier-base16-tomorrow-dark-theme",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Forked Base16 dark theme for Atom w/ some small changes",
   "repository": "https://github.com/ricardofbarros/prettier-base16-tomorrow-dark-theme",
   "license": "MIT",
